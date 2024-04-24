@@ -1,3 +1,4 @@
+if true then return {} end
 return {
   { -- LSP Configuration & Plugins
     'neovim/nvim-lspconfig',

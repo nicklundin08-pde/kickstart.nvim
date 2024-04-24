@@ -1,4 +1,5 @@
 -- Highlight todo, notes, etc in comments
+if true then return {} end
 return {
   { 'folke/todo-comments.nvim', event = 'VimEnter', dependencies = { 'nvim-lua/plenary.nvim' }, opts = { signs = false } },
 }

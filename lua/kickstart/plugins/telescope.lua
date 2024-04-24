@@ -5,6 +5,7 @@
 --
 -- Use the `dependencies` key to specify the dependencies of a particular plugin
 
+if true then return {} end
 return {
   { -- Fuzzy Finder (files, lsp, etc)
     'nvim-telescope/telescope.nvim',
