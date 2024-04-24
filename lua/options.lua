@@ -62,3 +62,4 @@ vim.opt.scrolloff = 10
 -- vim: ts=2 sts=2 sw=2 et
 vim.opt.fillchars = { eob = " " }
 vim.opt.swapfile = false
+vim.opt.termguicolors = true
